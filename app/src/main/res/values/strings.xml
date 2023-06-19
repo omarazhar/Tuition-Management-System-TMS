@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TWS</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="text_schedule_records">"Schedule and Records"</string>
+    <string name="text_get_resource">"Get Resources"</string>
+    <string name="text_search_tuition">"Looking for tuition"</string>
+    <string name="action_apply_tuition">"Apply for Tuition"</string>
+    <string name="action_forget_password"><u>Forgot Password</u></string>
+    <string name="action_sign_up"> <b><u>Not a member? Sign up </u></b></string>
+
+    <!--> example Data in Search tuition <!-->
+
+    <string name="text_tuition_code1">Tuition Code: 04-543</string>
+    <string name="text_tuition_code2">Tuition Code: 08-440</string>
+
+    <string name="text_tuition_type1">Tutor Type: Male/Female: </string>
+    <string name="text_tuition_type2">Tutor Type: Female: </string>
+
+    <string name="text_class1">Class: A-levels</string>
+    <string name="text_class2">Class: 8</string>
+
+    <string name="text_subject1">Subject: Economics, Accounting</string>
+    <string name="text_subject2">Subject: Maths and Science</string>
+
+    <string name="text_Area1">Area: Dhanmondi 8A</string>
+    <string name="text_Area2">Area: Gulshan-2</string>
+
+    <string name="text_Salary1">Salary: Neg</string>
+    <string name="text_Salary2">Salary: 5000</string>
+
+
+
+</resources>
